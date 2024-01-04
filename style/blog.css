@@ -1,6 +1,7 @@
  div{
     background-color: antiquewhite;
    padding: 5%;
+   margin: 4px;
     border:black;
     border-radius: 2%;
 }
